@@ -1,8 +1,28 @@
-Paraview 
+Paraview  (Ricardo)
 - The concept
-- Climatology example
+- pv_atmos example
 - MOHID -> Phython scripts -> Paraview (hydrodynamics + Lagrangian)
 
-Surfer
+Surfer Tool (Manuela by Skype?? ) 
+- Tool philosophy
+- Description of input file.
+- Examples Climatology
 
-Matlab
+Compare Python tool (Paulo/Joao??)
+- Tool Structure
+- Examples: - Validation HF Radar
+                    - Compare others Models
+
+MARETEC Github reposiitory  (Angie)
+   Matlab 
+- Directory Structure
+- Example: - Validation with ADCP
+                  - Visualization Drifter
+
+- DISCUSSION 
+- Go with the paraview approach? 
+- How to Contribute to the tools?
+- Define organization structure?
+- Should we need a MOHID tools for every program language?
+- Next steps toward development 
+- first deliverable November 12. 
